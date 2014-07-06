@@ -1,0 +1,15 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+	
+
+.chart rect{
+	fill: #8000ff;
+}
+
+.chart text{
+	fill: white;
+	font: 10px sans-serif;
+	text-anchor: end;
+}
