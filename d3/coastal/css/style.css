@@ -1,0 +1,12 @@
+.counties {
+	fill: #ccc;
+}
+
+.county-borders {
+	fill:none
+	stroke: #ccc;
+	stroke-width: .5px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+}
+

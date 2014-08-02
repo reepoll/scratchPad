@@ -1,0 +1,15 @@
+.main-body {
+    margin-top: 80px;
+}
+h2 {
+    margin-top: 120px;
+}
+.ex2-wrapper {
+    height: 100px;
+}
+.ex2-hover p {
+    padding: 15px;
+}
+.hidden {
+    display: none;
+}
